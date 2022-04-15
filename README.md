@@ -48,14 +48,14 @@
 
 # 강의 계획서
 
-## Day1. 강의 소개, 데이터 엔지니어링의 개념, SQL 기본
+## Week1. 강의 소개, 데이터 엔지니어링의 개념, SQL 기본
 - 강의 소개
 - 데이터 엔지니어링과 데이터 엔지니어에 대해서
 - SQL 기본 및 PostgreSQL(실습)
 - Python/Java에서 DB Query하기(실습)
 - 과제소개
 
-## Day2. 병렬처리, Hadoop Map reduce와 실습
+## Week2. 병렬처리, Hadoop Map reduce와 실습
 - 지난 주 과제리뷰
 - 병렬처리
 - Apache Hadoop 개념
@@ -64,7 +64,7 @@
 - Map reduce 프로그램 작성하기(실습)
 - 과제소개
 
-## Day3. Apache Hive
+## Week3. Apache Hive
 - Apache Hive 개념
 - Hive Query(실습)
 - 지난 주 과제리뷰
@@ -72,7 +72,7 @@
 - Hive의 한계점과 Hive를 대체하는 기술들
 - 과제소개
 
-## Day4. Apache Spark
+## Week4. Apache Spark
 - Apache Spark 개념
 - Spark 병렬처리
 - Spark programming(실습)
@@ -80,23 +80,23 @@
 - Spark SQL script(실습)
 - 과제소개
 
-## Day5. Workflow 구성
+## Week5. Workflow 구성
 - 과제리뷰
 - Job scheduling, Workflow 구성
 - Airflow 개념
 - Airflow로 Workflow 구성 및 스케줄 설정(실습)
 - 과제소개
 
-## Day6. 데이터 시각화
+## Week6. 데이터 시각화
 - 과제리뷰
 - Grafana 둘러보기
 - 데이터 시각화(실습)
 - 과제소개
 
-## Day7. Term project
+## Week7. Term project
 - 데이터 수집, 처리 및 시각화 파이프라인 개발(전일 실습)
 
-## Day8. 코스 리뷰
+## Week8. 코스 리뷰
 - Term project 리뷰
 - Big tech 회사들의 데이터 파이프라인 아키텍처
 - 데이터 엔지니어 커리어 조언
