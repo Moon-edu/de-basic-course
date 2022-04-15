@@ -14,6 +14,9 @@
 - SQL
 - Docker
 
+# 준비물
+- Labtop/Desktop(최소 RAM 8G 이상, 8G 미만은 제공되는 Docker image 실행이 힘듭니다)
+
 # 수업에서 사용하게 될 기술
 - PostgreSQL
 - Apache Hadoop
